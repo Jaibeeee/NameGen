@@ -14,7 +14,7 @@ var names = [
   "The Oringinal Gangster", "Creeper", "Luna", "Goose", "Paddle Foot", "Sunshine",
   "Pun Master", "Obi-Wan", "Egg Head", "Scrambeled", "The Bee", "French Fry",
   "The Barger", "Judo Master", "The CLAW", "Meow Meow", "Bumblebee", "Quoka",
-  "Quok-owl", "The Wise One", "Stat", "Doofus", "Slytherin", "Dork", "Cool Cat",
+  "Quok-owl", "The Wise One", "Stat", "Doofus", "Slytherin's Nicest", "Dork", "Cool Cat",
   "DJ Becsalot", "Itsy Bitsy Becipder", "Old Woman", "Needs a new hip", "Puzzle",
   "Bounty", "Fluff Inspector", "Space Girl", "The Apprentice", "Dwight", "Muscles",
   "Colossus", "Muggle", "Loser", "Goober", "Nerd", "Oddball", "Big Cheddar",
