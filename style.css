@@ -1,0 +1,117 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+  background-color: #10C8CD;
+  background-image: url(Resources/always-grey.png);
+
+}
+
+h1{
+  font-family: 'Bungee Shade', cursive;
+  font-size: 60px;
+  color: white;
+}
+
+.content{
+  display: block;
+  margin: 100px auto;
+  text-align: center;
+}
+
+button{
+  width: 150px;
+  height:50px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #EC1559;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  display: float;
+  border: none;
+}
+
+button:hover{
+  width:155px;
+  height:50px;
+  font-size: 18px;
+  color: white;
+}
+
+#nameDisplay{
+  padding: 20px;
+  margin:20px;
+  font-size: 40px;
+  color:white;
+  font-family: 'Bungee', cursive;
+}
+
+.hand{
+  display: block;
+  position: relative;
+}
+
+.hand img{
+  width:35%;
+  position: relative;
+  float: left;
+  left:280px;
+  bottom: 50px;
+}
+
+.hand h2{
+  position: relative;
+  font-size: 25px;
+  left:170px;
+  bottom:20px;
+  color:white;
+  font-family: 'Indie Flower', cursive;
+}
