@@ -19,6 +19,9 @@ var names = [
   "Bounty", "Fluff Inspector", "Space Girl", "The Apprentice", "Dwight", "Muscles",
   "Colossus", "Muggle", "Loser", "Goober", "Nerd", "Oddball", "Big Cheddar",
   "Furb", "Garbage Gut Destroyer", "Egg Roll", "Turtle Neck", "Frazzle Mc FrazzleFace",
+  "Derpina", "Ducks McQuacken", "Sleepy", "Droolius", "Bib", "Disaster Eater", "The Spelling Bee",
+  "Eventual Dance Off LOSER", "Tower Control", "Bork Face", "Popachops", "Dill", "T-BEX!", "Becasaurus Rex",
+  "Megatron", "Bumfluff", "Smelly", 
   
 ];
 
