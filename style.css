@@ -94,17 +94,22 @@ button:hover{
   font-family: 'Bungee', cursive;
 }
 
+.hand{
+	text-align:center;
+}
+
 .hand img{
-  width:20%;
+  width:300px;
   margin: auto;
-  bottom: 50px;
+  display:block;
+  margin-bottom:80px;
 }
 
 .hand h2{
-  position: relative;
   font-size: 25px;
-  left:170px;
-  bottom:20px;
   color:white;
   font-family: 'Indie Flower', cursive;
+  	position:relative;
+	left:150px;
+	top:40px;
 }
