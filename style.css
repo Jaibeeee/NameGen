@@ -94,11 +94,6 @@ button:hover{
   font-family: 'Bungee', cursive;
 }
 
-.hand{
-  display: block;
-  position: relative;
-}
-
 .hand img{
   width:10%;
   position: relative;
