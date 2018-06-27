@@ -95,10 +95,8 @@ button:hover{
 }
 
 .hand img{
-  width:10%;
-  position: relative;
-  float: left;
-  left:380px;
+  width:20%;
+  margin: auto;
   bottom: 50px;
 }
 
